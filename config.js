@@ -1,8 +1,7 @@
 const CONFIG = {
     titleWeb: "Confess Crush",
     introTitle: 'ấn vào bên dướii',
-    introDesc: `Trái đất vốn lạ thường
-    Mà `,
+    introDesc: ``,
     btnIntro: 'Click',
     title: 'làm người yêu t nhaa 🥰',
     desc: 'chọn vào bên dưới ấy  ',
